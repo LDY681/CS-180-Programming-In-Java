@@ -1,0 +1,442 @@
+Welcome to the Address Book!
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Lucas Duda was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Name: Lucas Duda
+Number: 0
+Address: null
+
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Ruben Tejada was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Wilmer Flores was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Neil Walker was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Yoenis Cespedes was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Michael Conforto was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Curtis Granderson was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Juan Lagares was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Enter the number of the Contact: 
+Matt Harvey was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Enter the number of the Contact: 
+Noah Syndergaard was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Enter the number of the Contact: 
+Juerys Familia was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Enter the number of the Contact: 
+Bartolo Colon was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Enter the number of the Contact: 
+Terry Collins was added to the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Select an option below: 
+1 - New Contact with name
+2 - New Contact with name and number
+3 - New Contact with name, number, and address
+Enter the name of the Contact to add/update: 
+Enter the number of the Contact: 
+Enter the address of the Contact: 
+Information for existing Contact Terry Collins updated.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact:
+Name: Terry Collins
+Number: 10
+Address: Mets Training Facility, Port St. Lucie, FL
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Name: Lucas Duda
+Number: 0
+Address: null
+
+Name: Ruben Tejada
+Number: 0
+Address: null
+
+Name: Wilmer Flores
+Number: 0
+Address: null
+
+Name: Neil Walker
+Number: 0
+Address: null
+
+Name: Yoenis Cespedes
+Number: 0
+Address: null
+
+Name: Michael Conforto
+Number: 0
+Address: null
+
+Name: Curtis Granderson
+Number: 0
+Address: null
+
+Name: Juan Lagares
+Number: 0
+Address: null
+
+Name: Matt Harvey
+Number: 33
+Address: null
+
+Name: Noah Syndergaard
+Number: 34
+Address: null
+
+Name: Juerys Familia
+Number: 27
+Address: null
+
+Name: Bartolo Colon
+Number: 40
+Address: null
+
+Name: Terry Collins
+Number: 10
+Address: Mets Training Facility, Port St. Lucie, FL
+
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Lucas Duda remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Terry Collins remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Ruben Tejada remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Wilmer Flores remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Daniel Murphy was not in the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Neil Walker remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Yoenis Cespedes remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Michael Conforto remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Name: Curtis Granderson
+Number: 0
+Address: null
+
+Name: Juan Lagares
+Number: 0
+Address: null
+
+Name: Matt Harvey
+Number: 33
+Address: null
+
+Name: Noah Syndergaard
+Number: 34
+Address: null
+
+Name: Juerys Familia
+Number: 27
+Address: null
+
+Name: Bartolo Colon
+Number: 40
+Address: null
+
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Curtis Granderson remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Juan Lagares remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Matt Harvey remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Noah Syndergaard remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Juerys Familia remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+Enter the name of the Contact you would like to remove:
+Bartolo Colon remove from the Address Book.
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+
+Select an option from the menu below:
+1 - Add a new Contact
+2 - Remove an existing Contact
+3 - Get details about a Contact
+4 - Print Address Book
+5 - Exit
+
